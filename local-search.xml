@@ -11,6 +11,12 @@
     <content type="html"><![CDATA[<h2 id="真的好怪，hexo配置文件为什么会有这种bug？"><a href="#真的好怪，hexo配置文件为什么会有这种bug？" class="headerlink" title="真的好怪，hexo配置文件为什么会有这种bug？"></a>真的好怪，hexo配置文件为什么会有这种bug？</h2><figure class="highlight mercury"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs mercury">INFO  CDN available: NPMMirror (Recommended)<br>WARN  ZStatic CDN <span class="hljs-keyword">is</span> unavailable yet.<br>WARN  CDNJS CDN <span class="hljs-keyword">is</span> unavailable yet.<br></code></pre></td></tr></table></figure><h3 id="不管了，先这样吧"><a href="#不管了，先这样吧" class="headerlink" title="不管了，先这样吧"></a>不管了，先这样吧</h3><h3 id="我服了爸爸，这个真的很怪。主题好像是要时间来渲染，如果不渲染会很难看"><a href="#我服了爸爸，这个真的很怪。主题好像是要时间来渲染，如果不渲染会很难看" class="headerlink" title="我服了爸爸，这个真的很怪。主题好像是要时间来渲染，如果不渲染会很难看"></a>我服了爸爸，这个真的很怪。主题好像是要时间来渲染，如果不渲染会很难看</h3>]]></content>
     
     
+    <categories>
+      
+      <category>study</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -29,6 +35,12 @@
     
     <content type="html"><![CDATA[<h2 id="学习一下Android代码书写，小白的自娱自乐捏-￣▽￣"><a href="#学习一下Android代码书写，小白的自娱自乐捏-￣▽￣" class="headerlink" title="学习一下Android代码书写，小白的自娱自乐捏~~(￣▽￣)*"></a>学习一下Android代码书写，小白的自娱自乐捏~~(￣▽￣)<del>*</del></h2><h3 id="Android的学习目录有："><a href="#Android的学习目录有：" class="headerlink" title="Android的学习目录有："></a>Android的学习目录有：</h3><h3 id="基础view控件以及布局"><a href="#基础view控件以及布局" class="headerlink" title="基础view控件以及布局"></a>基础view控件以及布局</h3><h3 id="事件处理机制"><a href="#事件处理机制" class="headerlink" title="事件处理机制"></a>事件处理机制</h3><h3 id="活动-Activity-与意图-Intent"><a href="#活动-Activity-与意图-Intent" class="headerlink" title="活动(Activity)与意图(Intent)"></a>活动(Activity)与意图(Intent)</h3><h3 id="服务-Service"><a href="#服务-Service" class="headerlink" title="服务(Service)"></a>服务(Service)</h3>]]></content>
     
+    
+    <categories>
+      
+      <category>study</category>
+      
+    </categories>
     
     
     <tags>
@@ -49,6 +61,12 @@
     <content type="html"><![CDATA[]]></content>
     
     
+    <categories>
+      
+      <category>life</category>
+      
+    </categories>
+    
     
   </entry>
   
@@ -61,6 +79,12 @@
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
+    
+    <categories>
+      
+      <category>nbcs</category>
+      
+    </categories>
     
     
   </entry>
