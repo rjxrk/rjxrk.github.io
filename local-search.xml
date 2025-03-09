@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>study_1</title>
+    <link href="/2025/03/09/study-1/"/>
+    <url>/2025/03/09/study-1/</url>
+    
+    <content type="html"><![CDATA[<h2 id="真的好怪，hexo配置文件为什么会有这种bug？"><a href="#真的好怪，hexo配置文件为什么会有这种bug？" class="headerlink" title="真的好怪，hexo配置文件为什么会有这种bug？"></a>真的好怪，hexo配置文件为什么会有这种bug？</h2><figure class="highlight mercury"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs mercury">INFO  CDN available: NPMMirror (Recommended)<br>WARN  ZStatic CDN <span class="hljs-keyword">is</span> unavailable yet.<br>WARN  CDNJS CDN <span class="hljs-keyword">is</span> unavailable yet.<br></code></pre></td></tr></table></figure><h3 id="不管了，先这样吧"><a href="#不管了，先这样吧" class="headerlink" title="不管了，先这样吧"></a>不管了，先这样吧</h3><h3 id="我服了爸爸，这个真的很怪。主题好像是要时间来渲染，如果不渲染会很难看"><a href="#我服了爸爸，这个真的很怪。主题好像是要时间来渲染，如果不渲染会很难看" class="headerlink" title="我服了爸爸，这个真的很怪。主题好像是要时间来渲染，如果不渲染会很难看"></a>我服了爸爸，这个真的很怪。主题好像是要时间来渲染，如果不渲染会很难看</h3>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Android</title>
     <link href="/2025/03/04/Android/"/>
     <url>/2025/03/04/Android/</url>
